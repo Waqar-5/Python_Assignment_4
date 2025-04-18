@@ -1,4 +1,4 @@
-#Links of Google Colab of assignemnt 00 to 05 related:
+ ✅ Assignment 00 to 05
 
 #link of google colab of 00_intro_python codes: https://colab.research.google.com/drive/1ce4Jg8-zlBt1OrOy-hwdavfzR2Sa_lHt?usp=sharing.
 
