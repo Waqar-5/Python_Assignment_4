@@ -8,4 +8,10 @@
 
 #03_if_statements code: https://colab.research.google.com/drive/19fWPp9VJB5K9r19NCRNHRHplk1A7yE32?usp=sharing.
 
-#04_dictionaries code: https://colab.research.google.com/drive/1tpL5N7lIBODh7V2qyJlqX-Onv1cW5Ndk?usp=sharing
+#04_dictionaries code: https://colab.research.google.com/drive/1tpL5N7lIBODh7V2qyJlqX-Onv1cW5Ndk?usp=sharing.
+
+#05_loops_controls_flow: https://colab.research.google.com/drive/1C3qIW9vX-8_QsaCuR7MHGpnNuXj4T82j?usp=sharing.
+
+#06_functions: https://colab.research.google.com/drive/1e0hzIgREuRyyTnKuNVnyKDGxP7S22bnK?usp=sharing.
+
+#07_information_flow: https://colab.research.google.com/drive/1Tibm-MXNSWgjyqra6B6gO_Tv5VJEZIhz?usp=sharing.
